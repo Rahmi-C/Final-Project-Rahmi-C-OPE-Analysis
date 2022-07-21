@@ -1,0 +1,975 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.21)  21 JUL 2022 18:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Rahmi_Chowdhury_500621744_Final_project.tex
+(./Rahmi_Chowdhury_500621744_Final_project.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-15> (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/achemso/achemso.cls
+Document Class: achemso 2021-01-20 v3.13c Submission to ACS journals
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count193
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\acs@bib@file=\write3
+\c@bibnote=\count194
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks18
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen147
+\captionmargin=\dimen148
+\caption@leftmargin=\dimen149
+\caption@rightmargin=\dimen150
+\caption@width=\dimen151
+\caption@indent=\dimen152
+\caption@parindent=\dimen153
+\caption@hangindent=\dimen154
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count198
+\c@continuedfloat=\count199
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count266
+\float@exts=\toks19
+\float@box=\box51
+\@float@everytoks=\toks20
+\@floatcapt=\box52
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen155
+\Gin@req@width=\dimen156
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\acs@author@cnt=\count267
+\acs@affil@cnt=\count268
+\acs@affil@alt@cnt=\count269
+\acs@footnote@cnt=\count270
+\acs@affil@marker@cnt=\count271
+\acs@space@pre@title=\skip49
+\acs@space@post@title=\skip50
+\acs@space@post@author=\skip51
+\acs@space@post@address=\skip52
+\acs@space@post@email=\skip53
+\acs@maketitle@width=\skip54
+\@float@every@scheme=\toks21
+\c@scheme=\count272
+\@float@every@chart=\toks22
+\c@chart=\count273
+\@float@every@graph=\toks23
+\c@graph=\count274
+\@float@every@table=\toks24
+\acs@collect@toks=\toks25
+\acs@collect@empty@toks=\toks26
+\acs@tocentry@height=\skip55
+\acs@tocentry@width=\skip56
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/achemso/achemso-jacsat.cfg
+File: achemso-jacsat.cfg 2021-01-20 v3.13c achemso configuration: J. Am. Chem. Soc.
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip57
+\bibsep=\skip58
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count275
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/achemso/natmove.sty
+Package: natmove 2010/01/15 v1.1a Automatic citation moving with natbib
+)) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mhchem/mhchem.sty
+Package: mhchem 2021/12/31 v4.09 for typesetting chemical formulae
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-07-15 L3 programming layer (loader) 
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box53
+)) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count277
+\calc@Bcount=\count278
+\calc@Adimen=\dimen157
+\calc@Bdimen=\dimen158
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count279
+\calc@Cskip=\skip61
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip62
+For additional information on amsmath, use the `?' option.
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen159
+)) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen160
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count280
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count281
+\leftroot@=\count282
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count283
+\DOTSCASE@=\count284
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen161
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count285
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count286
+\dotsspace@=\muskip17
+\c@parentequation=\count287
+\dspbrk@lvl=\count288
+\tag@help=\toks28
+\row@=\count289
+\column@=\count290
+\maxfields@=\count291
+\andhelp@=\toks29
+\eqnshift@=\dimen162
+\alignsep@=\dimen163
+\tagshift@=\dimen164
+\tagwidth@=\dimen165
+\totwidth@=\dimen166
+\lineht@=\dimen167
+\@envbody=\toks30
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/chemgreek/chemgreek.sty (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)
+Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use in chemistry (CN)
+\l__chemgreek_tmpa_int=\count292
+\g__chemgreek_tmpa_int=\count293
+)
+\l__mhchem_ce_distanceFromLastComma_int=\count294
+\__mhchem_arrow_extPgfLength_skip=\skip65
+\mhchem@minispace@tmp=\skip66
+\mhchem@minibackspace@tmp=\skip67
+\mhchem@bondwidth=\skip68
+\mhchem@bondheight=\skip69
+\mhchem@smallbondwidth@tmpA=\skip70
+\mhchem@smallbondwidth@tmpB=\skip71
+\mhchem@smallbondwidth=\skip72
+\mhchem@bondtmp@minussidebearingleft=\skip73
+\mhchem@bondtmp@minussidebearingright=\skip74
+\l__mhchem_option_version_int=\count295
+\mhchem@option@minusmathsidebearingleft=\dimen168
+\mhchem@option@minusmathsidebearingright=\dimen169
+\mhchem@option@minustextsidebearingleft=\dimen170
+\mhchem@option@minustextsidebearingright=\dimen171
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count296
+)
+\@linkdim=\dimen172
+\Hy@linkcounter=\count297
+\Hy@pagecounter=\count298
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count299
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4045.
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4408.
+\c@Hy@tempcnt=\count300
+LaTeX Info: Redefining \url on input line 4746.
+\XeTeXLinkMargin=\dimen173
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count301
+\Field@Width=\dimen174
+\Fld@charsize=\dimen175
+Package hyperref Info: Hyper figures OFF on input line 6024.
+Package hyperref Info: Link nesting OFF on input line 6029.
+Package hyperref Info: Hyper index ON on input line 6032.
+Package hyperref Info: backreferencing OFF on input line 6039.
+Package hyperref Info: Link coloring OFF on input line 6044.
+Package hyperref Info: Link coloring with OCG OFF on input line 6049.
+Package hyperref Info: PDF/A mode OFF on input line 6054.
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count302
+\c@Item=\count303
+\c@Hfootnote=\count304
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip75
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 31.
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 31.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 31.
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip76
+\LTright=\skip77
+\LTpre=\skip78
+\LTpost=\skip79
+\LTchunksize=\count307
+\LTcapwidth=\dimen176
+\LT@head=\box56
+\LT@firsthead=\box57
+\LT@foot=\box58
+\LT@lastfoot=\box59
+\LT@gbox=\box60
+\LT@cols=\count308
+\LT@rows=\count309
+\c@LT@tables=\count310
+\c@LT@chunks=\count311
+\LT@p@ftn=\toks32
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen177
+\lightrulewidth=\dimen178
+\cmidrulewidth=\dimen179
+\belowrulesep=\dimen180
+\belowbottomsep=\dimen181
+\aboverulesep=\dimen182
+\abovetopsep=\dimen183
+\cmidrulesep=\dimen184
+\cmidrulekern=\dimen185
+\defaultaddspace=\dimen186
+\@cmidla=\count312
+\@cmidlb=\count313
+\@aboverulesep=\dimen187
+\@belowrulesep=\dimen188
+\@thisruleclass=\count314
+\@lastruleclass=\count315
+\@thisrulewidth=\dimen189
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen190
+\ar@mcellbox=\box61
+\extrarowheight=\dimen191
+\NC@list=\toks33
+\extratabsurround=\skip80
+\backup@length=\skip81
+\ar@cellbox=\box62
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count316
+) (c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box63
+\fn@width=\dimen192
+)
+
+LaTeX Warning: Unused global option(s):
+    [journal=jacsat,manuscript=article].
+
+(./Rahmi_Chowdhury_500621744_Final_project.aux)
+\openout1 = `Rahmi_Chowdhury_500621744_Final_project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+\openout3 = `acs-Rahmi_Chowdhury_500621744_Final_project.bib'.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.2698pt, 469.75539pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75539pt
+* \textheight=650.43037pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-37.00018pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+
+Package chemgreek Info: Activating mapping `default' on line 53.
+
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+(c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 53.
+(./Rahmi_Chowdhury_500621744_Final_project.out) (./Rahmi_Chowdhury_500621744_Final_project.out)
+\@outlinefile=\write4
+\openout4 = `Rahmi_Chowdhury_500621744_Final_project.out'.
+
+
+Overfull \hbox (16.74414pt too wide) in paragraph at lines 55--87
+[]\OT1/cmr/m/n/10.95 There are many dif-fer-ent pa-ram-e-ters that play an in-te-gral roll in pre-dic-tive Organophos-
+ []
+
+[1
+
+{c:/Users/monst/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+Overfull \hbox (12.9837pt too wide) in paragraph at lines 209--210
+[]\OT1/cmr/m/n/12 OPEs  
+ []
+
+
+Overfull \hbox (9.22511pt too wide) in paragraph at lines 213--214
+ []\OT1/cmr/m/n/12 CTD[]a 
+ []
+
+
+Overfull \hbox (15.18361pt too wide) in paragraph at lines 215--216
+ []\OT1/cmr/m/n/12 CTD[]w 
+ []
+
+
+Overfull \hbox (12.24197pt too wide) in paragraph at lines 217--218
+ []\OT1/cmr/m/n/12 POV[]a 
+ []
+
+
+Overfull \hbox (14.85306pt too wide) in paragraph at lines 219--220
+ []\OT1/cmr/m/n/12 POV[]w 
+ []
+
+
+Overfull \hbox (1.12321pt too wide) in paragraph at lines 229--230
+ []\OT1/cmr/m/n/12 Ph 
+ []
+
+
+Overfull \hbox (5.23149pt too wide) in paragraph at lines 231--232
+ []\OT1/cmr/m/n/12 KAW 
+ []
+
+
+Overfull \hbox (9.56683pt too wide) in paragraph at lines 233--234
+ []\OT1/cmr/m/n/12 KOW 
+ []
+
+
+Overfull \hbox (6.30298pt too wide) in paragraph at lines 235--236
+ []\OT1/cmr/m/n/12 KOA 
+ []
+
+
+Overfull \hbox (12.9837pt too wide) in paragraph at lines 243--244
+[]\OT1/cmr/m/n/12 OPEs  
+ []
+
+
+Overfull \hbox (9.22511pt too wide) in paragraph at lines 247--248
+ []\OT1/cmr/m/n/12 CTD[]a 
+ []
+
+
+Overfull \hbox (15.18361pt too wide) in paragraph at lines 249--250
+ []\OT1/cmr/m/n/12 CTD[]w 
+ []
+
+
+Overfull \hbox (12.24197pt too wide) in paragraph at lines 251--252
+ []\OT1/cmr/m/n/12 POV[]a 
+ []
+
+
+Overfull \hbox (14.85306pt too wide) in paragraph at lines 253--254
+ []\OT1/cmr/m/n/12 POV[]w 
+ []
+
+
+Overfull \hbox (1.12321pt too wide) in paragraph at lines 263--264
+ []\OT1/cmr/m/n/12 Ph 
+ []
+
+
+Overfull \hbox (5.23149pt too wide) in paragraph at lines 265--266
+ []\OT1/cmr/m/n/12 KAW 
+ []
+
+
+Overfull \hbox (9.56683pt too wide) in paragraph at lines 267--268
+ []\OT1/cmr/m/n/12 KOW 
+ []
+
+
+Overfull \hbox (6.30298pt too wide) in paragraph at lines 269--270
+ []\OT1/cmr/m/n/12 KOA 
+ []
+
+
+Overfull \hbox (7.69626pt too wide) in paragraph at lines 275--275
+[]|\OT1/cmr/m/n/12 TPP|  
+ []
+
+
+Overfull \hbox (10.86365pt too wide) in paragraph at lines 275--275
+ []|\OT1/cmr/m/n/12 327.0781| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 275--275
+ []|\OT1/cmr/m/n/12 584.00| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 276--276
+ []|\OT1/cmr/m/n/12 6.34| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 276--277
+ []|\OT1/cmr/m/n/12 14.554| 
+ []
+
+
+Overfull \hbox (18.95447pt too wide) in paragraph at lines 277--277
+[]|\OT1/cmr/m/n/12 TMTP|  
+ []
+
+
+Overfull \hbox (10.86365pt too wide) in paragraph at lines 277--277
+ []|\OT1/cmr/m/n/12 369.1250| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 277--277
+ []|\OT1/cmr/m/n/12 278.52| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 278--278
+ []|\OT1/cmr/m/n/12 6.34| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 278--279
+ []|\OT1/cmr/m/n/12 17.902| 
+ []
+
+
+Overfull \hbox (16.18228pt too wide) in paragraph at lines 279--279
+[]|\OT1/cmr/m/n/12 TPTP|  
+ []
+
+
+Overfull \hbox (10.86365pt too wide) in paragraph at lines 279--279
+ []|\OT1/cmr/m/n/12 369.1250| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 279--279
+ []|\OT1/cmr/m/n/12 584.00| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 280--280
+ []|\OT1/cmr/m/n/12 6.34| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 280--281
+ []|\OT1/cmr/m/n/12 18.091| 
+ []
+
+
+Overfull \hbox (7.69626pt too wide) in paragraph at lines 281--281
+[]|\OT1/cmr/m/n/12 TEP|  
+ []
+
+
+Overfull \hbox (10.86365pt too wide) in paragraph at lines 281--281
+ []|\OT1/cmr/m/n/12 183.0781| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 281--281
+ []|\OT1/cmr/m/n/12 155.00| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 282--282
+ []|\OT1/cmr/m/n/12 0.90| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 282--283
+ []|\OT1/cmr/m/n/12 10.848| 
+ []
+
+
+Overfull \hbox (12.26566pt too wide) in paragraph at lines 283--283
+[]|\OT1/cmr/m/n/12 TPrP|  
+ []
+
+
+Overfull \hbox (10.86365pt too wide) in paragraph at lines 283--283
+ []|\OT1/cmr/m/n/12 225.1250| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 283--283
+ []|\OT1/cmr/m/n/12 107.00| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 284--284
+ []|\OT1/cmr/m/n/12 1.87| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 284--285
+ []|\OT1/cmr/m/n/12 14.074| 
+ []
+
+
+Overfull \hbox (8.02264pt too wide) in paragraph at lines 285--285
+[]|\OT1/cmr/m/n/12 TBP|  
+ []
+
+
+Overfull \hbox (10.86365pt too wide) in paragraph at lines 285--285
+ []|\OT1/cmr/m/n/12 267.1720| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 285--285
+ []|\OT1/cmr/m/n/12 101.00| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 285--286
+ []|\OT1/cmr/m/n/12 4.20| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 286--286
+ []|\OT1/cmr/m/n/12 10.0| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 286--287
+ []|\OT1/cmr/m/n/12 16.540| 
+ []
+
+
+Overfull \hbox (16.01701pt too wide) in paragraph at lines 287--287
+[]|\OT1/cmr/m/n/12 TBEP|  
+ []
+
+
+Overfull \hbox (10.86365pt too wide) in paragraph at lines 287--287
+ []|\OT1/cmr/m/n/12 399.2506| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 288--288
+ []|\OT1/cmr/m/n/12 3.00| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 288--288
+ []|\OT1/cmr/m/n/12 12.3| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 288--289
+ []|\OT1/cmr/m/n/12 17.076| 
+ []
+
+
+Overfull \hbox (16.992pt too wide) in paragraph at lines 289--289
+[]|\OT1/cmr/m/n/12 EHDP|  
+ []
+
+
+Overfull \hbox (10.86365pt too wide) in paragraph at lines 289--289
+ []|\OT1/cmr/m/n/12 363.1720| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 289--289
+ []|\OT1/cmr/m/n/12 201.00| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 290--290
+ []|\OT1/cmr/m/n/12 6.30| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 290--291
+ []|\OT1/cmr/m/n/12 18.616| 
+ []
+
+
+Overfull \hbox (16.18228pt too wide) in paragraph at lines 291--291
+[]|\OT1/cmr/m/n/12 TCEP|  
+ []
+
+
+Overfull \hbox (10.86365pt too wide) in paragraph at lines 291--291
+ []|\OT1/cmr/m/n/12 284.9612| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 291--292
+ []|\OT1/cmr/m/n/12 1.60| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 292--293
+ []|\OT1/cmr/m/n/12 12.969| 
+ []
+
+
+Overfull \hbox (16.18228pt too wide) in paragraph at lines 293--293
+[]|\OT1/cmr/m/n/12 TCPP|  
+ []
+
+
+Overfull \hbox (10.86365pt too wide) in paragraph at lines 293--293
+ []|\OT1/cmr/m/n/12 327.0081| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 293--293
+ []|\OT1/cmr/m/n/12 179.00| 
+ []
+
+
+Overfull \hbox (0.76276pt too wide) in paragraph at lines 294--294
+ []|\OT1/cmr/m/n/12 2.59| 
+ []
+
+
+Overfull \hbox (5.8132pt too wide) in paragraph at lines 294--295
+ []|\OT1/cmr/m/n/12 14.565| 
+ []
+
+[4]
+<Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-3-1.pdf, id=37, 578.16pt x 578.16pt>
+File: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-3-1.pdf Graphic file (type pdf)
+<use Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-3-1.pdf>
+Package pdftex.def Info: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-3-1.pdf  used on input line 305.
+(pdftex.def)             Requested size: 578.15858pt x 578.15858pt.
+
+Overfull \hbox (126.02802pt too wide) in paragraph at lines 305--306
+[][] 
+ []
+
+[5] [6 <./Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-3-1.pdf>]
+<Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-4-1.pdf, id=54, 505.89pt x 578.16pt>
+File: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-4-1.pdf Graphic file (type pdf)
+<use Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-4-1.pdf>
+Package pdftex.def Info: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-4-1.pdf  used on input line 317.
+(pdftex.def)             Requested size: 505.88875pt x 578.15858pt.
+
+Overfull \hbox (53.75818pt too wide) in paragraph at lines 317--318
+[][] 
+ []
+
+[7] [8 <./Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-4-1.pdf>]
+<Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-5-1.pdf, id=71, 505.89pt x 578.16pt>
+File: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-5-1.pdf Graphic file (type pdf)
+<use Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-5-1.pdf>
+Package pdftex.def Info: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-5-1.pdf  used on input line 329.
+(pdftex.def)             Requested size: 505.88875pt x 578.15858pt.
+
+Overfull \hbox (53.75818pt too wide) in paragraph at lines 329--334
+[][]
+ []
+
+[9] [10 <./Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-5-1.pdf>]
+<Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-6-1.pdf, id=90, 505.89pt x 578.16pt>
+File: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-6-1.pdf Graphic file (type pdf)
+<use Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-6-1.pdf>
+Package pdftex.def Info: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-6-1.pdf  used on input line 335.
+(pdftex.def)             Requested size: 505.88875pt x 578.15858pt.
+
+Overfull \hbox (53.75818pt too wide) in paragraph at lines 335--345
+[][]
+ []
+
+[11 <./Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-6-1.pdf>]
+<Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-7-1.pdf, id=104, 505.89pt x 578.16pt>
+File: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-7-1.pdf Graphic file (type pdf)
+<use Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-7-1.pdf>
+Package pdftex.def Info: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-7-1.pdf  used on input line 346.
+(pdftex.def)             Requested size: 505.88875pt x 578.15858pt.
+
+Overfull \hbox (53.75818pt too wide) in paragraph at lines 346--356
+[][]
+ []
+
+[12] [13 <./Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-7-1.pdf>]
+<Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-8-1.pdf, id=123, 505.89pt x 578.16pt>
+File: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-8-1.pdf Graphic file (type pdf)
+<use Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-8-1.pdf>
+Package pdftex.def Info: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-8-1.pdf  used on input line 357.
+(pdftex.def)             Requested size: 505.88875pt x 578.15858pt.
+
+Overfull \hbox (53.75818pt too wide) in paragraph at lines 357--365
+[][]
+ []
+
+[14 <./Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-8-1.pdf>]
+<Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-9-1.pdf, id=137, 505.89pt x 578.16pt>
+File: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-9-1.pdf Graphic file (type pdf)
+<use Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-9-1.pdf>
+Package pdftex.def Info: Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-9-1.pdf  used on input line 366.
+(pdftex.def)             Requested size: 505.88875pt x 578.15858pt.
+
+Overfull \hbox (53.75818pt too wide) in paragraph at lines 366--373
+[][]
+ []
+
+[15] [16 <./Rahmi_Chowdhury_500621744_Final_project_files/figure-latex/unnamed-chunk-9-1.pdf>]
+Overfull \hbox (43.50783pt too wide) in paragraph at lines 403--407
+\OT1/cmr/m/n/12 sphere. En-vi-ron-men-tal Sci-ence & Tech-nol-ogy, 48(6), 3203--3209. https://doi.org/10.1021/ES405337G 
+ []
+
+[17]
+Overfull \hbox (1.41153pt too wide) in paragraph at lines 414--419
+\OT1/cmr/m/n/12 men-tal Re-search and Pub-lic Health, 17(18), 1--24. https://doi.org/10.3390/IJERPH17186713 
+ []
+
+
+Overfull \hbox (49.24573pt too wide) in paragraph at lines 425--430
+\OT1/cmr/m/n/12 En-vi-ron-men-tal Sci-ence and Pol-lu-tion Re-search, 26(22), 22126--22136. https://doi.org/10.1007/S11356-
+ []
+
+
+Overfull \hbox (24.15433pt too wide) in paragraph at lines 447--451
+\OT1/cmr/m/n/12 Jour-nal of Haz-ardous Ma-te-ri-als, 301, 504--511. https://doi.org/10.1016/J.JHAZMAT.2015.09.014 
+ []
+
+[18]
+Overfull \hbox (23.21939pt too wide) in paragraph at lines 469--473
+\OT1/cmr/m/n/12 Let-ters, 1(1), 8--14. https://doi.org/10.1021/EZ400034N/SUPPL[]FILE/EZ400034N[]SI[]001.PDF 
+ []
+
+
+Overfull \hbox (19.53333pt too wide) in paragraph at lines 474--479
+\OT1/cmr/m/n/12 7409--7415. https://doi.org/10.1021/ACS.EST.6B00365/SUPPL[]FILE/ES6B00365[]SI[]001.PDF 
+ []
+
+[19] [20]
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <12> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 503.
+
+Overfull \vbox (84.86082pt too high) detected at line 503
+ []
+
+[21] (./Rahmi_Chowdhury_500621744_Final_project.aux)
+Package rerunfilecheck Info: File `Rahmi_Chowdhury_500621744_Final_project.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 13279 strings out of 479983
+ 228741 string characters out of 5886392
+ 567481 words of memory out of 5000000
+ 31243 multiletter control sequences out of 15000+600000
+ 478770 words of font info for 61 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 84i,9n,131p,402b,576s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb><c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/Users/monst/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Rahmi_Chowdhury_500621744_Final_project.pdf (21 pages, 456479 bytes).
+PDF statistics:
+ 238 PDF objects out of 1000 (max. 8388607)
+ 179 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
